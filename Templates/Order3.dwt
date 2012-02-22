@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Order Status</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<img src="../24043_355803543504_355800668504_3811716_3216745_n.jpg" width="267" height="120" alt="The Cell Shack" />
+<table width="100%" border="0">
+  <tr>
+    <td align="center"><!-- TemplateBeginEditable name="EditRegion6" --><!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+<table width="100%" border="0">
+  <tr>
+    <th scope="row">Shipping Information</th>
+  </tr>
+</table>
+<form id="form1" name="form1" method="post" >
+  <p>&nbsp;</p>
+  <p>
+    <label for="textfield">First Name: </label>
+    <!-- TemplateBeginEditable name="EditRegion4" -->
+    <input name="textfield2" type="text" id="textfield5" />
+    <!-- TemplateEndEditable -->
+    <label for="textfield7"></label>
+  </p>
+  <p>Last Name: <!-- TemplateBeginEditable name="EditRegion11" --><!-- TemplateEndEditable --></p>
+  <p>
+    <label for="textfield6">Address: </label>
+    <!-- TemplateBeginEditable name="EditRegion5" -->
+    <input name="textfield3" type="text" id="textfield6" />
+  <!-- TemplateEndEditable -->
+    <label for="textfield8"></label>
+  </p>
+  <p>
+    <label for="textfield4">City: </label>
+    <!-- TemplateBeginEditable name="EditRegion7" -->
+    <input name="textfield" type="text" id="textfield4" />
+  <!-- TemplateEndEditable --></p>
+  <p>State: <!-- TemplateBeginEditable name="EditRegion10" --><!-- TemplateEndEditable --></p>
+  <p>Zip: <!-- TemplateBeginEditable name="EditRegion9" --><!-- TemplateEndEditable --></p>
+  <table width="100%" border="0">
+    <tr>
+      <th scope="row">Shipping Information</th>
+    </tr>
+  </table>
+  <p>UPS Ground (7-10 Business Days) 
+    <input type="radio" name="radio" id="radio" value="radio" />
+    <label for="radio"></label>
+  </p>
+  <p>UPS Second Day (3-4 Business Days) 
+    <input type="radio" name="radio2" id="radio2" value="radio2" />
+    <label for="radio2"></label>
+  </p>
+  <p>UPS Overnight: (1-2 Business Days) 
+    <input type="radio" name="radio3" id="radio3" value="radio3" />
+    <label for="radio3"></label>
+  </p>
+  <!-- TemplateBeginEditable name="EditRegion8" --><!-- TemplateEndEditable -->
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</form>
+<div align="right"></div>
+</body>
+</html>

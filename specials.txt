@@ -1,0 +1,12 @@
+Name:Galaxy Nexus on Verizon
+Description:The Galaxy Nexus, the only phone with Android 4.0!
+Price:$199.99
+https://puzzle.sci.csueastbay.edu/~wj7356/facebook/galaxy-nexus-verizon.jpg
+Name:Apple iPad 2
+Description:The all-new thinner and lighter iPad
+Price:$399.95
+http://puzzle.sci.csueastbay.edu/~wj7356/thecellshack/tablets/1945531_sb.jpg
+Name:Bluetooth Headset
+Description:Be handsfree!
+Price:$10.95
+http://puzzle.sci.csueastbay.edu/~wj7356/thecellshack/accessories/3484101_rb.jpg

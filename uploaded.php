@@ -1,0 +1,182 @@
+<html><!-- InstanceBegin template="/Templates/index.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+<style type="text/css">
+<!--
+a:link {text-decoration: none}
+a:visited {text-decoration: none}
+a:active {text-decoration: none}
+a:hover {text-decoration: underline}
+-->
+</style>
+<title>The Cell Shack</title>
+<style type="text/css">
+<!--
+.style3 {font-family: Arial, Helvetica, sans-serif}
+.style1 {color: #FFFFFF}
+#AutoNumber1 tr td #AutoNumber12 tr td #AutoNumber14 tr td p {
+	color: #000;
+}
+#AutoNumber1 tr td #AutoNumber12 tr td #AutoNumber15 tr td p {
+	color: #000;
+}
+#AutoNumber1 tr td #AutoNumber12 tr td #AutoNumber14 tr td {
+	color: #000;
+}
+#AutoNumber1 tr td #AutoNumber12 tr td #AutoNumber15 tr td {
+	color: #000;
+}
+#AutoNumber1 tr td #AutoNumber12 tr td #AutoNumber16 tr td p {
+	color: #000;
+}
+#AutoNumber1 tr td #AutoNumber12 tr td #AutoNumber14 tr td p {
+	color: #FFF;
+}
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body link="#FFFFFF" vlink="#FFFFFF" alink="#FFFFFF">
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-width: 0" bordercolor="#111111" width="98%" id="AutoNumber1" height="12">
+  <tr>
+    <td width="100%" bgcolor="#1F68A5" style="border-style: none; border-width: medium" height="17">
+    <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-width: 0" bordercolor="#111111" width="100%" id="AutoNumber6" height="81">
+      <tr>
+        <td width="52%" style="border-style: none; border-width: medium" height="79" bgcolor="#FFFFFF">
+        <p align="left" style="margin-left: 7; margin-top: 0; margin-bottom: 0">
+        <br>
+        <a href="home.html"><img src="24043_355803543504_355800668504_3811716_3216745_n.jpg" width="267" height="120"></a><br>
+&nbsp;</td>
+        <td width="48%" height="79" bgcolor="#FFFFFF" style="border-style: none; border-width: medium"><p align="center" style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" style="border:medium none #CC0000; " height="16" bgcolor="#6600CC">
+    <table border="1" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#4D3366" width="100%" id="AutoNumber11" height="6">
+      <tr>
+        <td width="18%" style="border-left-style: none; border-left-width: medium; border-right-style: solid; border-right-width: 1; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" bgcolor="#0066FF" align="center" height="4" bordercolor="#333366">
+        <p style="margin-top: 2; margin-bottom: 2"><strong><a href="phones/phone.html">Phones</a></strong></td>
+        <td width="16%" style="border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width: 1; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" bgcolor="#0066FF" align="center" height="4" bordercolor="#333366">
+        <p style="margin-top: 2; margin-bottom: 2"><strong><a href="http://puzzle.sci.csueastbay.edu/~wj7356/thecellshack/tablets/tablets.html">Tablets</a></strong></td>
+        <td width="16%" style="border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width: 1; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" bgcolor="#0066FF" align="center" height="4" bordercolor="#333366">
+        <p style="margin-top: 2; margin-bottom: 2"><strong><a href="http://puzzle.sci.csueastbay.edu/~wj7356/thecellshack/accessories/list.html">Accessories</a></strong></td>
+        <td width="16%" style="border-left-style: solid; border-left-width: 1; border-right-style: solid; border-right-width: 1; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" bgcolor="#0066FF" align="center" height="4" bordercolor="#333366">
+        <p style="margin-top: 2; margin-bottom: 2"><strong><a href="http://puzzle.sci.csueastbay.edu/~wj7356/thecellshack/promo.html">Promotions</a></strong></td>
+        <td width="16%" style="border-left-style: solid; border-left-width: 1; border-right-style: none; border-right-width: medium; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" bgcolor="#0066FF" align="center" bordercolor="#333366"><strong><a href="http://puzzle.sci.csueastbay.edu/~wj7356/thecellshack/contact.html">About Us</a></strong></td>
+        <td width="18%" style="border-left-style: solid; border-left-width: 1; border-right-style: none; border-right-width: medium; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" bgcolor="#0066FF" align="center" height="4" bordercolor="#333366">
+        <p style="margin-top: 2; margin-bottom: 2"><strong><a href="http://puzzle.sci.csueastbay.edu/~wj7356/thecellshack/shoppingcart.html">Shopping Cart</a></strong></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" style="border-left: medium none #111111; border-right: medium none #111111; border-top-style: none; border-top-width: medium; border-bottom-style: none; border-bottom-width: medium" height="16" bgcolor="#FFCC66">
+    <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-width: 0" bordercolor="#111111" width="100%" id="AutoNumber12" height="1">
+      <tr>
+        <td style="border-style: none; border-width: medium" colspan="5" height="17">
+        <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-width: 0" bordercolor="#111111" width="100%" id="AutoNumber16">
+          <tr>
+            <td width="34%" style="border-style: none; border-width: medium" bgcolor="#0099FF">
+            <p style="margin-left: 5"><b>
+            </b></td>
+            <td width="33%" style="border-style: none; border-width: medium" bgcolor="#0099FF">&nbsp;</td>
+            <td width="33%" style="border-style: none; border-width: medium" bgcolor="#0099FF"><!-- InstanceBeginEditable name="EditRegion1" -->
+              <p align="right" style="margin-right: 6; margin-top: 2; margin-bottom: 2">File uploaded!          <strong><em><center><a href="upload.html">Upload another picture?</a></strong></em></center>
+            <!-- InstanceEndEditable -->              <p align="right" style="margin-right: 6; margin-top: 2; margin-bottom: 2"></td>
+          </tr>
+          <tr>
+            <td width="100%" colspan="3" align="center" bgcolor="#FFFFFF" style="border-style: none; border-width: medium"><!-- InstanceBeginEditable name="EditRegion5" -->
+              <p style="margin-top: -5; margin-bottom: -5">              
+            <!-- InstanceEndEditable -->              <p style="margin-top: -5; margin-bottom: -5"></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+      <tr>
+        <td width="14%" style="border-style: none; border-width: medium" bgcolor="#FFFFFF" valign="top" height="1">
+        <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#333366" width="100%" id="AutoNumber13" height="198">
+          <tr>
+            <td width="100%" bgcolor="#FFFFFF" style="border-bottom:medium none #FF6600; border-left-color: #FF6600; border-left-width: 2; border-right-color: #FF6600; border-right-width: 2; border-top-color:#FF6600; "><!-- InstanceBeginEditable name="EditRegion2" --><!-- InstanceEndEditable --></td>
+          </tr>
+          </table>
+        </td>
+        <td width="4%" style="border-style: none; border-width: medium" bgcolor="#FFFFFF" height="1">&nbsp;</td>
+        <td width="46%" style="border-style: none; border-width: medium" bgcolor="#FFFFFF" valign="top" height="1">
+        <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#C0C0C0" width="100%" id="AutoNumber14" height="198">
+          <tr>
+            <td width="100%" height="19" bgcolor="#0066FF" valign="top" style="border-left-color: #808080; border-left-width: 2; border-right-color: #808080; border-right-width: 2; border-bottom-style: none; border-bottom-width: medium"><!-- InstanceBeginEditable name="EditRegion6" -->
+              <p align="center" style="margin-bottom: 4">  <?php
+          include("include/Upload.php");
+		  if($_FILES['upload']['tmp_name']) 
+		  {
+
+			  $upload = new Upload();
+
+			  $upload->SetFileName($_FILES['upload']['name']);
+	
+			  $upload->SetTempName($_FILES['upload']['tmp_name']);
+		
+    		  $upload->SetUploadDirectory("upload/"); 
+    		  $upload->SetValidExtensions(array('gif', 'jpg', 'jpeg', 'png'));
+    		  
+			  $upload->SetMaximumFileSize(300000);           
+            	if($upload->UploadFile()) 
+                {
+                	echo '<p><strong>';
+                	echo "The file ".  basename( $_FILES['upload']['name']). " was successfully uploaded";
+                    echo '</strong></p>';
+                } 
+                
+                //if error print error message
+                else
+                {
+                	echo '<p><strong>';
+                	echo 'Error! <a href="upload.html">Try again!</a>!';
+                    echo '</strong></p>';
+                }
+		  }
+
+		 ?>            
+            <!-- InstanceEndEditable --></td>
+          </tr>
+          <tr>
+            <td width="100%" height="177" style="border-left: 2px solid #808080; border-right: 2px solid #808080; border-top-style: none; border-top-width: medium; border-bottom-style: solid; border-bottom-width: 1"><!-- InstanceBeginEditable name="EditRegion3" -->          
+         
+
+          </div><!-- InstanceEndEditable --></td>
+          </tr>
+        </table>
+        </td>
+        <td width="3%" style="border-style: none; border-width: medium" bgcolor="#FFFFFF" height="1">&nbsp;</td>
+        <td width="33%" style="border-style: none; border-width: medium" bgcolor="#FFFFFF" height="1" valign="top">
+        <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#674589" width="100%" id="AutoNumber15" height="217">
+          <tr>
+              <td width="100%" valign="top" bgcolor="#FFFFFF" height="38" style="border-bottom-style: none; border-bottom-width: medium"><!-- InstanceBeginEditable name="EditRegion7" -->
+                <p style="margin-left: 5; margin-bottom: 4" align="center">                
+              <!-- InstanceEndEditable --></td>
+            </tr>
+          <tr>
+              <td width="100%" valign="top" height="177" style="border-top-style: none; border-top-width: medium" bordercolor="#FFD2D2" bgcolor="#FFFFFF"><!-- InstanceBeginEditable name="EditRegion4" --><!-- InstanceEndEditable --></td>
+            </tr>
+        </table>
+        </td>
+      </tr>
+      <tr bgcolor="#8D68B3">
+        <td height="3" colspan="5" valign="top" bgcolor="#0099FF" style="border-style: none; border-width: medium">&nbsp;</td>
+      </tr>
+      <tr>
+        <td style="border-style: none; border-width: medium" bgcolor="#0066FF" height="17" colspan="5">
+          <p align="center" style="margin-top: 5; margin-bottom: 5"><b><font color="#FFFFFF" size="1" face="Verdana">Facebook | Twitter | <a href="aboutus.html">E-mail | Phone</a></font></b></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+</body>
+
+<!-- InstanceEnd --></html>
